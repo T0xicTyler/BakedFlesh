@@ -15,7 +15,7 @@ import java.util.List;
 public class BakedFleshCommand implements CommandExecutor, TabCompleter {
 
     @NonNull
-    private BakedFleshPlugin plugin;
+    private final BakedFleshPlugin plugin;
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
