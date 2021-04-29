@@ -1,0 +1,8 @@
+# What the baked flesh's display name should be.
+name: "&fBaked Flesh"
+# How much XP to drop when retrieving baked flesh.
+xp: 5
+# How long in ticks to cook rotten flesh in a furnace. Set to 0 to disable furnace cooking.
+furnaceCookTime: 160
+# How long in ticks to cook rotten flesh in a smoker. Set to 0 to disable smoker cooking.
+smokerCookTime: 100
